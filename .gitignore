@@ -95,7 +95,7 @@ wp-content/plugins/hello.php
 wp-content/plugins/akismet/
 
 # ignore specific themes
-wp-content/themes/twenty*/
+# wp-content/themes/twenty*/
 
 # ignore node/grunt dependency directories
 node_modules/
